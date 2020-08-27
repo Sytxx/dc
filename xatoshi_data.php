@@ -3,6 +3,6 @@
 # channel : xatoshi lanzz
 # telegram : @xatoshilanzz & @cxatoshi
 
-$email = "xxxxxx";
-$password = "xxxxxx";
+$email = "fatursytx@gmail.com";
+$password = "rattlexnake1404";
 ?>
